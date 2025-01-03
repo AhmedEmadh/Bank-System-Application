@@ -88,26 +88,26 @@ This project is an excellent demonstration of C++ concepts such as:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/AhmedEmadh/all_projects System.git
+   git clone https://github.com/AhmedEmadh/Bank-System-Application
    ```
 
-2. Navigate to the project folder:
+2. Open Project:
    
-   ```bash
-   cd Bank-Management-System
-   ```
+   - Open Project in visual studio to run the code
+   
+   - Or Go to source files to compile
+     
+     ```bash
+     cd Bank_System
+     ```
+   - Or Go to exe folder to run the program binary
+   
 
-3. Compile the project:
-
-```bash
-g++ *.cpp -o BankSystem
-```
-
-Run the application:
-
-```bash
-./BankSystem
-```
+3. Run the application:
+   
+   - Press Run button in visual studio code
+   - Or compile all source files
+   - Or run Bank_Sysstem.exe file
 
 ## Screenshots
 
