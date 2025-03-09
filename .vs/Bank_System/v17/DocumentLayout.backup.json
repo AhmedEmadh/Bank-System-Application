@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\temp\\Bank-System-Application\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Bank-System-Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\temp\\Bank-System-Application\\Bank_System\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|solutionrelative:Bank_System\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\temp\\Bank-System-Application\\Bank_System\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\GitHub\\Bank-System-Application\\Bank_System\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|solutionrelative:Bank_System\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\temp\\Bank-System-Application\\Bank_System\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\GitHub\\Bank-System-Application\\Bank_System\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|solutionrelative:Bank_System\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\GitHub\\Bank-System-Application\\Bank_System\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|solutionrelative:Bank_System\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\GitHub\\Bank-System-Application\\Bank_System\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|solutionrelative:Bank_System\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|D:\\GitHub\\Bank-System-Application\\Bank_System\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88B42779-91E0-4732-B36D-EAD3FEBB8565}|Bank_System\\Bank_System.vcxproj|solutionrelative:Bank_System\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +42,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsClientListScreen.h",
-              "DocumentMoniker": "D:\\temp\\Bank-System-Application\\Bank_System\\clsClientListScreen.h",
-              "RelativeDocumentMoniker": "Bank_System\\clsClientListScreen.h",
-              "ToolTip": "D:\\temp\\Bank-System-Application\\Bank_System\\clsClientListScreen.h",
-              "RelativeToolTip": "Bank_System\\clsClientListScreen.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "clsManageUsers.h",
+              "DocumentMoniker": "D:\\GitHub\\Bank-System-Application\\Bank_System\\clsManageUsers.h",
+              "RelativeDocumentMoniker": "Bank_System\\clsManageUsers.h",
+              "ToolTip": "D:\\GitHub\\Bank-System-Application\\Bank_System\\clsManageUsers.h",
+              "RelativeToolTip": "Bank_System\\clsManageUsers.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAlwEYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-09T15:05:49.313Z",
+              "WhenOpened": "2025-03-09T18:36:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "D:\\GitHub\\Bank-System-Application\\Bank_System\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Bank_System\\clsAddNewUserScreen.h",
+              "ToolTip": "D:\\GitHub\\Bank-System-Application\\Bank_System\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Bank_System\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T18:28:39.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "D:\\GitHub\\Bank-System-Application\\Bank_System\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Bank_System\\clsClientListScreen.h",
+              "ToolTip": "D:\\GitHub\\Bank-System-Application\\Bank_System\\clsClientListScreen.h",
+              "RelativeToolTip": "Bank_System\\clsClientListScreen.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T15:05:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Users.txt",
-              "DocumentMoniker": "D:\\temp\\Bank-System-Application\\Bank_System\\Users.txt",
+              "DocumentMoniker": "D:\\GitHub\\Bank-System-Application\\Bank_System\\Users.txt",
               "RelativeDocumentMoniker": "Bank_System\\Users.txt",
-              "ToolTip": "D:\\temp\\Bank-System-Application\\Bank_System\\Users.txt",
+              "ToolTip": "D:\\GitHub\\Bank-System-Application\\Bank_System\\Users.txt",
               "RelativeToolTip": "Bank_System\\Users.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-09T15:04:35.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Clients.txt",
-              "DocumentMoniker": "D:\\temp\\Bank-System-Application\\Bank_System\\Clients.txt",
+              "DocumentMoniker": "D:\\GitHub\\Bank-System-Application\\Bank_System\\Clients.txt",
               "RelativeDocumentMoniker": "Bank_System\\Clients.txt",
-              "ToolTip": "D:\\temp\\Bank-System-Application\\Bank_System\\Clients.txt",
+              "ToolTip": "D:\\GitHub\\Bank-System-Application\\Bank_System\\Clients.txt",
               "RelativeToolTip": "Bank_System\\Clients.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-09T15:04:28.216Z"
+              "WhenOpened": "2025-03-09T15:04:28.216Z",
+              "EditorCaption": ""
             }
           ]
         }

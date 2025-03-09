@@ -69,7 +69,6 @@ class clsManageUsers: protected clsScreen
 		{
 			system("cls");
 			_ShowAddNewUserScreen();
-			_ShowAddNewUserScreen();
 			_GoBackToManageUsers();
 			break;
 		}
