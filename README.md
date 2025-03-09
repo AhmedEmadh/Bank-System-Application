@@ -111,10 +111,11 @@ This project is an excellent demonstration of C++ concepts such as:
 
 ## Screenshots
 
-![MainMenu Screenshot](https://github.com/AhmedEmadh/all_projects/blob/master/C%2B%2B%20Projects/Bank_System_UI/Main%20menu.png)
-![Client List Screenshot](https://github.com/AhmedEmadh/all_projects/blob/master/C%2B%2B%20Projects/Bank_System_UI/Client_List.png)
-![Manage Users Screenshot](https://github.com/AhmedEmadh/all_projects/blob/master/C%2B%2B%20Projects/Bank_System_UI/Manage%20Users.png)
-![User_List Screenshot](https://github.com/AhmedEmadh/all_projects/blob/master/C%2B%2B%20Projects/Bank_System_UI/User_List.png)
+![Login Screenshot](https://github.com/AhmedEmadh/Bank-System-Application/blob/master/Login_Screen.png)
+![MainMenu Screenshot](https://github.com/AhmedEmadh/Bank-System-Application/blob/master/Main%20menu.png)
+![Client List Screenshot](https://github.com/AhmedEmadh/Bank-System-Application/blob/master/Client_List.png)
+![Manage Users Screenshot](https://github.com/AhmedEmadh/Bank-System-Application/blob/master/Manage%20Users.png)
+![User_List Screenshot](https://github.com/AhmedEmadh/Bank-System-Application/blob/master/User_List.png)
 
 ## Usage
 
